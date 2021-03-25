@@ -42,6 +42,10 @@ input {
     border-radius: 3px;
 }
 
+li input{
+    flex: 1;
+}
+
 form input{
     flex: 1;
     margin-right: 15px;
